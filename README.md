@@ -44,7 +44,6 @@ No dia a dia, atuo na linha de frente em uma empresa de tecnologia, uma experiê
     <td width="50%" valign="top">
       <div align="center">
         <a href="LINK_DA_PASTA_PROJETO_2">
-          <img src="https://via.placeholder.com/400x200/0d1117/ffffff?text=Protótipo+e+Modelagem" width="100%" style="border-radius: 10px; border: 1px solid #30363d;"/>
         </a>
         <br/>
         <h4><b>RECIPROCITY</b></h4>
