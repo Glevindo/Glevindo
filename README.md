@@ -24,7 +24,7 @@ No dia a dia, atuo na linha de frente em uma empresa de tecnologia, uma experiê
    <td width="50%" valign="top">
   <div align="center">
     <br/>
-    <h4><b>❄️ W.S.M - Gestão de Climatização</b></h4>
+    <h4><b>WEATHER STORAGE MANAGMENT</b></h4>
     <p align="left">
       Controle de estoque e ordens de serviço. Focado em logística de peças e atendimento técnico.
     </p>
@@ -47,9 +47,9 @@ No dia a dia, atuo na linha de frente em uma empresa de tecnologia, uma experiê
           <img src="https://via.placeholder.com/400x200/0d1117/ffffff?text=Protótipo+e+Modelagem" width="100%" style="border-radius: 10px; border: 1px solid #30363d;"/>
         </a>
         <br/>
-        <h4><b>Nome do Segundo Projeto</b></h4>
+        <h4><b>RECIPROCITY</b></h4>
         <p align="left">
-          Breve descrição do projeto onde você aplicou a modelagem de dados e o design da interface antes da codificação.
+          Breve descrição do projeto onde você aplicou a modelagem de dados e o design 
         </p>
        <img src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white" height="22" />
