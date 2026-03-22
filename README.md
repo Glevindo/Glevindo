@@ -1,4 +1,5 @@
 # Sobre mim
+<img src="https://img.shields.io/badge/Desenvolvedora%20Full_Stack-161b22?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="24" />
 
 Me chamo **Giovana Levindo**, tenho 19 anos e minha jornada na tecnologia começou cedo, aos 15 anos, quando iniciei o curso técnico em Desenvolvimento de Sistemas na ETEC. Atualmente, sigo expandindo meus horizontes no ensino superior, cursando Análise e Desenvolvimento de Sistemas na FATEC Taubaté.
 
@@ -57,6 +58,7 @@ No dia a dia, atuo na linha de frente em uma empresa de tecnologia, uma experiê
 </table>
 
 <br>
+
 ---
 
 <br>
