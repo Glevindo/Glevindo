@@ -56,10 +56,12 @@ No dia a dia, atuo na linha de frente em uma empresa de tecnologia, uma experiê
   <img src="https://img.shields.io/badge/CSS3-00000F?style=for-the-badge&logo=css3&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="22" />
+  <br/>
+        <br>
    <a href="https://www.figma.com/design/wRauE62ed5zBoHD4ZgarOD/Reciprocity?node-id=0-1&m=dev&t=amkTpE288EgXmhMg-1">
   <img src="https://img.shields.io/badge/Acessar_Protótipo_no_Figma-161b22?style=for-the-badge&logo=figma&logoColor=white" height="25" />
 </a>
-      </div>
+      <div>
     </td>
   </tr>
 </table>
