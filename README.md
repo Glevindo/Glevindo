@@ -21,24 +21,26 @@ No dia a dia, atuo na linha de frente em uma empresa de tecnologia, uma experiê
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="LINK_DA_PASTA_W_S_M">
-          <img src="https://via.placeholder.com/400x200/0d1117/ffffff?text=Weather+Storage+Management" width="100%" style="border-radius: 10px; border: 1px solid #30363d;"/>
-        </a>
-        <br/>
-        <h4><b>❄️ W.S.M - Gestão de Climatização</b></h4>
-        <p align="left">
-          Controle de estoque e ordens de serviço para manutenção de ar-condicionado. Focado em logística de peças e fluxo de atendimento técnico.
-        </p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="20" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="20" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="20" />
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="20" />
-      </div>
-    </td>
+   <td width="50%" valign="top">
+  <div align="center">
+    <br/>
+    <h4><b>❄️ W.S.M - Gestão de Climatização</b></h4>
+    <p align="left">
+      Controle de estoque e ordens de serviço. Focado em logística de peças e atendimento técnico.
+    </p>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="22" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/VS_Code-00000F?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="22" />
+    </div>
+    <br/>
+    <a href="https://www.figma.com/design/NqJgX1R8gRsQg6S6Q2jm6c/Dashboard?node-id=0-1&m=dev&t=fZIF2gHV98CJmNPc-1Connect" target="_blank">
+      <img src="https://img.shields.io/badge/Acessar_Protótipo_no_Figma-161b22?style=for-the-badge&logo=figma&logoColor=white" height="25" />
+    </a>
+  </div>
+</td>
     <td width="50%" valign="top">
       <div align="center">
         <a href="LINK_DA_PASTA_PROJETO_2">
@@ -49,9 +51,14 @@ No dia a dia, atuo na linha de frente em uma empresa de tecnologia, uma experiê
         <p align="left">
           Breve descrição do projeto onde você aplicou a modelagem de dados e o design da interface antes da codificação.
         </p>
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="20" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="20" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="20" />
+       <img src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/CSS3-00000F?style=for-the-badge&logo=css3&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="22" />
+   <a href="https://www.figma.com/design/wRauE62ed5zBoHD4ZgarOD/Reciprocity?node-id=0-1&m=dev&t=amkTpE288EgXmhMg-1">
+  <img src="https://img.shields.io/badge/Acessar_Protótipo_no_Figma-161b22?style=for-the-badge&logo=figma&logoColor=white" height="25" />
+</a>
       </div>
     </td>
   </tr>
