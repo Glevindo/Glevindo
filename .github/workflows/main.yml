@@ -1,0 +1,39 @@
+
+name: Lint and Test
+
+on: [push, pull_request]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Locate project
+        id: project
+        run: |
+          FILE=$(find . -name package.json -not -path '*/node_modules/*' -print -quit)
+          if [ -z "$FILE" ]; then
+            echo "package.json não encontrado"
+            exit 1
+          fi
+          echo "dir=$(dirname "$FILE")" >> "$GITHUB_OUTPUT"
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: ${{ steps.project.outputs.dir }}
+
+      - name: Run ESLint
+        run: npx eslint src/script.js
+        working-directory: ${{ steps.project.outputs.dir }}
+
+      - name: Run Jest
+        run: npx jest tests/script.test.js
+        working-directory: ${{ steps.project.outputs.dir }}
